@@ -1,4 +1,5 @@
 Overview
+
 This project includes two main components:
 
 A Python script (project.py): Developed and executed using Visual Studio Code (VS Code), focusing on data analysis, visualization, and processing tasks.
