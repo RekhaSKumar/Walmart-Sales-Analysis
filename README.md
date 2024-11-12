@@ -50,11 +50,13 @@ Improved Reporting: Delivers interactive dashboards for effective communication.
 
 Scalability: Adaptable for various data analysis projects and future integrations.
 
-Acknowledgments
-Data Source: Kaggle’s Walmart Sales Dataset
-
 Better Data Management: Optimized SQL queries enhance database performance.
 
 Skill Development: Strengthens proficiency in Python, SQL, and data visualization.
 
 Business Value: Supports market analysis and strategic planning for growth.
+
+Acknowledgments
+
+Data Source: Kaggle’s Walmart Sales Dataset
+
